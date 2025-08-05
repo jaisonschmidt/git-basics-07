@@ -20,6 +20,8 @@ GitHub é uma plataforma online que hospeda repositórios Git, facilitando a col
 - Gerenciar issues, pull requests e revisões de código
 - Automatizar fluxos de trabalho com GitHub Actions
 
+Além disso, o GitHub oferece recursos como controle de permissões, integração com ferramentas de CI/CD, documentação integrada via wikis e páginas, além de uma comunidade ativa que contribui para o desenvolvimento de projetos de todos os tamanhos.
+
 ## Comandos Básicos do Git
 
 - `git init` — Inicializa um novo repositório Git
