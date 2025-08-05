@@ -22,6 +22,10 @@ GitHub é uma plataforma online que hospeda repositórios Git, facilitando a col
 
 Além disso, o GitHub oferece recursos como controle de permissões, integração com ferramentas de CI/CD, documentação integrada via wikis e páginas, além de uma comunidade ativa que contribui para o desenvolvimento de projetos de todos os tamanhos.
 
+## O que é SSH?
+
+SSH (Secure Shell) é um protocolo de rede utilizado para comunicação segura entre computadores. No contexto do Git e GitHub, o SSH permite autenticar e transferir dados de forma criptografada entre seu computador e o repositório remoto, sem a necessidade de digitar sua senha a cada operação. Para isso, é necessário gerar um par de chaves (pública e privada) e adicionar a chave pública à sua conta do GitHub, garantindo mais segurança e praticidade ao gerenciar seus projetos.
+
 ## Comandos Básicos do Git
 
 - `git init` — Inicializa um novo repositório Git
